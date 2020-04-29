@@ -1,4 +1,4 @@
-package com.cn.factory;
+package com.cn.factory.staticfactory;
 
 /**
  * 工厂模式接口类

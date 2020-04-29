@@ -1,12 +1,12 @@
-package com.cn.factory;
+package com.cn.factory.staticfactory;
 
-public class UnKnowPhone implements Phone{
+public class SamsungPhone implements Phone{
     public void brand() {
-        System.out.println("This is unknow Phone!");
+        System.out.println("This is Samsung Phone!");
     }
 
     public void system() {
-        System.out.println("Can not know system!");
+        System.out.println("Use Android system!");
     }
 
     public String num() {

@@ -1,12 +1,12 @@
-package com.cn.factory;
+package com.cn.factory.staticfactory;
 
-public class ApplePhone implements Phone{
+public class NokiaPhone implements Phone{
     public void brand() {
-        System.out.println("This is Apple Phone!");
+        System.out.println("This is Nokia Phone!");
     }
 
     public void system() {
-        System.out.println("Use IOS system!");
+        System.out.println("Use Symbian system!");
     }
 
     public String num() {

@@ -1,4 +1,4 @@
-package com.cn.factory;
+package com.cn.factory.staticfactory;
 
 import com.cn.factory.enums.PhoneType;
 

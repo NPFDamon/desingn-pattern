@@ -1,4 +1,4 @@
-package com.cn.factory;
+package com.cn.factory.staticfactory;
 
 public class MiPhone implements Phone{
     public void brand() {
