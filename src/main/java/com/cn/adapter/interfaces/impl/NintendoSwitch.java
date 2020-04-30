@@ -1,6 +1,6 @@
-package com.cn.builder.adapter.interfaces.impl;
+package com.cn.adapter.interfaces.impl;
 
-import com.cn.builder.adapter.interfaces.Switch;
+import com.cn.adapter.interfaces.Switch;
 
 public class NintendoSwitch implements Switch {
     public void playGame(String gameType, String gameName) {

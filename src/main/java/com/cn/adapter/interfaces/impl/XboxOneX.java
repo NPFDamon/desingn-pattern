@@ -1,6 +1,6 @@
-package com.cn.builder.adapter.interfaces.impl;
+package com.cn.adapter.interfaces.impl;
 
-import com.cn.builder.adapter.interfaces.Xbox;
+import com.cn.adapter.interfaces.Xbox;
 
 public class XboxOneX implements Xbox {
     public void playGame(String gameType, String gameName) {

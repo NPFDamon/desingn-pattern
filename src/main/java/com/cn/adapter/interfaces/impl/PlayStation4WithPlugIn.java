@@ -1,7 +1,7 @@
-package com.cn.builder.adapter.interfaces.impl;
+package com.cn.adapter.interfaces.impl;
 
-import com.cn.builder.adapter.gameadapter.PlayStationAdapter;
-import com.cn.builder.adapter.interfaces.PlayStation;
+import com.cn.adapter.gameadapter.PlayStationAdapter;
+import com.cn.adapter.interfaces.PlayStation;
 
 /**
  * 扩展适配器的PS4可以玩各平台游戏

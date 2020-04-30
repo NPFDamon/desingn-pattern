@@ -1,7 +1,7 @@
-package com.cn.builder.adapter.interfaces.impl;
+package com.cn.adapter.interfaces.impl;
 
-import com.cn.builder.adapter.gameadapter.NSAdapter;
-import com.cn.builder.adapter.interfaces.Switch;
+import com.cn.adapter.gameadapter.NSAdapter;
+import com.cn.adapter.interfaces.Switch;
 
 public class NSSwitchWithPlugIn implements Switch {
     NSAdapter nsAdapter = new NSAdapter(new PlayStation4());

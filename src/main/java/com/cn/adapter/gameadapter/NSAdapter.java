@@ -1,8 +1,8 @@
-package com.cn.builder.adapter.gameadapter;
+package com.cn.adapter.gameadapter;
 
-import com.cn.builder.adapter.interfaces.GameMachine;
-import com.cn.builder.adapter.interfaces.impl.NintendoSwitch;
-import com.cn.builder.adapter.interfaces.impl.XboxOneX;
+import com.cn.adapter.interfaces.GameMachine;
+import com.cn.adapter.interfaces.impl.NintendoSwitch;
+import com.cn.adapter.interfaces.impl.XboxOneX;
 
 /**
  * ns适配器 可选择适配ps和Xbox

@@ -1,8 +1,8 @@
-package com.cn.builder.adapter;
+package com.cn.adapter;
 
-import com.cn.builder.adapter.interfaces.impl.NSSwitchWithPlugIn;
-import com.cn.builder.adapter.interfaces.impl.PlayStation4WithPlugIn;
-import com.cn.builder.adapter.interfaces.impl.PlayStation4;
+import com.cn.adapter.interfaces.impl.NSSwitchWithPlugIn;
+import com.cn.adapter.interfaces.impl.PlayStation4WithPlugIn;
+import com.cn.adapter.interfaces.impl.PlayStation4;
 
 /**
  * 适配器模是作为兼容两个不兼容接口之间的桥梁。

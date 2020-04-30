@@ -1,9 +1,9 @@
-package com.cn.builder.adapter.gameadapter;
+package com.cn.adapter.gameadapter;
 
-import com.cn.builder.adapter.interfaces.GameMachine;
-import com.cn.builder.adapter.interfaces.PlayStation;
-import com.cn.builder.adapter.interfaces.impl.NintendoSwitch;
-import com.cn.builder.adapter.interfaces.impl.XboxOneX;
+import com.cn.adapter.interfaces.GameMachine;
+import com.cn.adapter.interfaces.PlayStation;
+import com.cn.adapter.interfaces.impl.NintendoSwitch;
+import com.cn.adapter.interfaces.impl.XboxOneX;
 
 /**
  * ps适配器，让ps4可以玩xbox和ns游戏
