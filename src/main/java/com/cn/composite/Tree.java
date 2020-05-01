@@ -1,4 +1,4 @@
-package com.cn.Composite;
+package com.cn.composite;
 
 /***
  * 组合模式；把一组相似的对象当做一个单一的对象。
