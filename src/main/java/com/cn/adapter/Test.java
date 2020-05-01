@@ -7,6 +7,7 @@ import com.cn.adapter.interfaces.impl.PlayStation4;
 /**
  * 适配器模是作为兼容两个不兼容接口之间的桥梁。
  * 将一个类的接口转换成客户希望的另一个接口，适配器模式使得原本由于接口不能在一起工作的那些类可以在一起工作。
+ *
  */
 public class Test {
     public static void main(String[] args){
