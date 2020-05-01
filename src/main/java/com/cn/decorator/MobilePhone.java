@@ -1,4 +1,7 @@
 package com.cn.decorator;
 
-public class MobilePhone {
+public interface MobilePhone {
+
+    void call();
+    void photo();
 }
