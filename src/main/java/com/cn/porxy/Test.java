@@ -9,6 +9,8 @@ import com.cn.porxy.staticproxy.ProxyInternet;
 /***
  * 代理模式
  * 为其他对象提供一种代理以控制这个对象的访问
+ * AspectJ代理技术是一个使用java编程语言实现，使用时需要使用额外的编译器（ajc）,是静态代理
+ *
  */
 public class Test {
     public static void main(String[] args){
