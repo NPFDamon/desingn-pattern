@@ -1,11 +1,6 @@
 package com.cn.visitor.interfaces.impl;
 
 import com.cn.visitor.interfaces.SteamVisitor;
-import com.cn.visitor.interfaces.impl.GameNews;
-import com.cn.visitor.interfaces.impl.GameRecommend;
-import com.cn.visitor.interfaces.impl.Steam;
-import com.cn.visitor.interfaces.impl.SteamMarket;
-
 /**
  * 具体访问者2
  */
